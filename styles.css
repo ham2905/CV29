@@ -1,0 +1,45 @@
+#name{
+  font-size: 4rem;
+}
+
+.nav-text{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.head
+{
+  font-family: 'Oswald', sans-serif;
+}
+.black{
+  background-color: black;
+}
+
+.reach{
+  font-size: 1.5rem;
+}
+.pad{
+  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+
+}
+
+.carousel-item{
+  height: 4rem;
+}
+.education{
+  padding: 1rem;
+}
+.break{
+  background-color: #e9ecef;
+  padding: 0;
+  margin: 0;
+}
+
+.thank{
+  font-family: 'Dancing Script', cursive;
+}
+
+.mar{
+  margin-bottom: 0;
+}
